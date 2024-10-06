@@ -6,7 +6,7 @@ int main(){
     printf("enter the number of terms to be printed\n");
     scanf("%d", &num);
     
-    printf("\n%d\n%d\n", n1, n2);
+    printf("%d\n%d\n", n1, n2);
     
     for(i=3;i<=num;i++) {
         n3=n1+n2;
