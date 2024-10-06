@@ -10,7 +10,7 @@ int main()
         printf("%d is even", N);
     }
     else {
-        printf("%d is even", N)
+        printf("%d is odd", N)
     }
     return 0;
 }
