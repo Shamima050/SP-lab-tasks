@@ -8,7 +8,7 @@ int main() {
 
     grade = score / 10; //TO CLSSIFY IT IN 10 CASES
 
-    /* switch (grade) {
+    /*switch (grade) {
       
         case 10:  // CASE 10,Scores 100
         case 9: 
